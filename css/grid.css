@@ -64,4 +64,6 @@
 [class*="col-"] .img_container{
     text-align: center;
     max-height: 100px;
+    width: auto;
+    height: auto;
 }
