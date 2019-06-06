@@ -159,4 +159,11 @@ nav li a:hover{
 
 }
 
+footer{
+    background-color: var(--black-color);
+    color:var(--white-color);
+    height: 25px;
+}
+
+
 
