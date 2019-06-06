@@ -177,5 +177,16 @@ footer .footer_text a{
     
 }
 
+.modulo_pago{
+    background-color: var(--white-color);
+    box-shadow: var(--box-shadow);
+    padding: var(--space);
+}
 
+.modulo_pago_img{
+    max-width: 150px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
 
+}
