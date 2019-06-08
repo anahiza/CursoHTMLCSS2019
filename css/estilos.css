@@ -54,6 +54,10 @@ nav li a:hover{
     background-color:var(--strawberry-color);
 }
 
+label,p{
+    font-size: var(--normal);
+}
+
 .main_section{
     padding: 15%;
     text-align: center;
@@ -189,4 +193,11 @@ footer .footer_text a{
     margin: auto;
     width: 100%;
 
+}
+.modulo_pago input{
+    margin-top: var(--space);
+    width: 100%;
+    height: 35px;
+    border-radius: 2px;
+    border:1px solid var(--black-color);
 }
